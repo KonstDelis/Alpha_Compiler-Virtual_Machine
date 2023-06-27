@@ -1,0 +1,21 @@
+/*
+
+trollarw
+
+/*
+
+*/
+
+*/
+c=1;
+
+var(a);
+while(1){
+    while(2){
+        local c=0;
+        function(){
+            tuple(0,1,new_var,"hello");
+        }
+    }
+    break;
+}

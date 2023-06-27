@@ -1,0 +1,30 @@
+var = -4;
+
+function f(){
+
+}
+
+function (){
+
+}
+
+function f2(){
+    return "hello";
+}
+
+function f3(){
+    if(true){
+        return 1;
+    }
+    else{
+        return 2;
+    }
+
+    return 3;
+}
+
+
+
+if(true or a){
+    var = "hello";
+}

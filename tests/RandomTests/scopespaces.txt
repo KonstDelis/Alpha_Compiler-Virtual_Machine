@@ -1,0 +1,46 @@
+a;
+b;
+c;
+{
+    d;
+    e;
+    {
+        f;
+        g;
+    }
+    h;
+    i;
+    while(true){
+        j;
+        k;
+    }
+    l;
+    for(m=0; n<2; o++){
+        p;
+        q;
+
+        if(r==false){
+            s;
+            t;
+        }
+    }
+    u;
+    v;
+
+    function f(w,x,y){
+        z;
+        while(true){
+            aa;
+        }
+        
+        function f2(a1,a2,a3,a4,a5,a6,a7,a8,a9,a10){
+            v1;
+            v2;
+            v3;
+            v4;
+            v5;
+        }
+        gamw_to_spiti_tou; 
+    }
+}
+ab;

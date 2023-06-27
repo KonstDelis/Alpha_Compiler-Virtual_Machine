@@ -1,0 +1,12 @@
+/*print("enter a string: ");
+in = input();
+
+print("read string: \"", in, "\"\n");*/
+
+i = 0;
+while(true){
+    i+;
+    print(i,endl);
+    if(i==20) break;
+}
+    
