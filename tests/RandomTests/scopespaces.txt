@@ -40,7 +40,6 @@ c;
             v4;
             v5;
         }
-        gamw_to_spiti_tou; 
     }
 }
 ab;
