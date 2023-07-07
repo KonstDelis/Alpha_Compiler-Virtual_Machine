@@ -35,7 +35,7 @@ Run command `./alphac` on linux and `./alphac.out` on mac, with these flags:
 ### Alpha Virtual Machine  
 After creating the binary file with the alpha compiler you can run it using command `./avm` on linux or `./avm.out` on mac, with these flags:  
 - `binaryFile.abc`: where binaryFileName the name of the binary file was created. Note: avm allows only files with .abc file extension  
-- `-debug`: used for debugging. Will print tables and instructions loaded from binary file and will print ountput for each instruction that is executaed
+- `-debug`: used for debugging. Will print tables and instructions loaded from binary file and will print output for each instruction that is executaed
 
 ## Supported Library Functions  
 function | description  
