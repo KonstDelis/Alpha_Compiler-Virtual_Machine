@@ -9,7 +9,7 @@ Implementation:
 - Target Code Generation: C  
 - Virtual Machine: C++  
 
-Has been tested on: Ubuntu, Debian, Mac IOS  
+Has been tested on: Ubuntu, Debian, MacOS  
 Note: does not work on Windows
 
 ## Members
